@@ -6,7 +6,7 @@ import Cart from "./pages/Cart";
 
 const App = () => {
   return (
-    <div className="w-full h-screen">
+    <div className="w-full h-screen overflow-x-hidden">
       <div className="bg-slate-900">
         <Navbar />
       </div>
